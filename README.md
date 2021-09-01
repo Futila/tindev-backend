@@ -33,6 +33,14 @@ $ yarn
 $ yarn start
 ```
 
+## Meta
+
+Author - Rocketseat
+
+programmer -  [Fernando Futila](https://www.linkedin.com/in/fernando-futila/) 
+
+https://tindev-backendd.herokuapp.com/
+
 ## Frontend 
 O Frontend  da aplicação está disponível em [frontend](https://github.com/Futila/tindev-frontend). 
 
